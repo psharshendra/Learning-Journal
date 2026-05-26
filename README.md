@@ -16,4 +16,4 @@ A personal record of everything I'm learning and creating — books, courses, po
 
 I learn by consuming and by creating. This repo holds both.
 
-Notes get added as I go. Writing gets published here first. Commits stay consistent — this is a living document, not a highlight reel.
+Notes get added as I go. Writing gets published here first. Commits stay consistent this is a living document, not a highlight reel.
