@@ -1,6 +1,6 @@
 # Learning Journal
 
-A personal record of everything I'm learning and creating — books, courses, podcasts, and original writing.
+A personal record of everything I'm learning and creating books, courses, podcasts, and original writing.
 
 ## Contents
 
