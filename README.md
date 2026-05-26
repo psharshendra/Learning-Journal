@@ -6,7 +6,7 @@ A personal record of everything I'm learning and creating books, courses, podcas
 
 | Category | Description |
 |---|---|
-| 📚 [Books](./Books/2025.md) | Notes and takeaways from books I've read |
+| 📚 [Books](./Books/Readme.md) | Notes and takeaways from books I've read |
 | 🎧 [Audiobooks](./Audiobooks/2025.md) | Listens worth remembering |
 | 🎙️ [Podcasts](./Podcasts/2025.md) | Episodes and series I keep coming back to |
 | 🧑‍💻 [Courses](./Courses/2025.md) | Structured learning and certifications |
